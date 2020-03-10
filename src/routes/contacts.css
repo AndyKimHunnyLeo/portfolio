@@ -1,0 +1,21 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding-top: 24vh;
+  padding-bottom: 11vw;
+  font-size: calc(10px + 15 * ((100vw - 420px) / 1180));
+  align-items: center;
+}
+
+.contact_title {
+  text-transform: uppercase;
+}
+.contact_text {
+  text-align: center;
+}
+.contact_contact {
+  margin-top: 20px;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
