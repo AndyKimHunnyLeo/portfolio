@@ -6,9 +6,9 @@ function Navigation() {
     return (
         <div class="nav">
 
-            <Link to="/" class="nav_text">home</Link>
-            <Link to="/projects" class="nav_text" >projects</Link>
-            <Link to="/contact" class="nav_text">contact</Link>
+            <Link to="/" target="_top" class="nav_text home">home</Link>
+            <Link to="/projects" target="_top" class="nav_text projects" >projects</Link>
+            <Link to="/contact" target="_top" class="nav_text contact">contact</Link>
         </div >
     );
 }

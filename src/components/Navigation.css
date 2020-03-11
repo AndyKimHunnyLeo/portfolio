@@ -14,11 +14,21 @@
   box-shadow: rgba(0, 0, 0, 0.8) 0px 1px 5px 2px;
 }
 .nav_text {
-  /* padding-top: 20px; */
-  /* border-bottom: 4px solid rgb(255, 118, 117); */
   transition: border-bottom 1s ease-in-out 0s;
 }
-.nav_text:hover {
+.contact:hover {
+  padding-top: 20px;
+  border-bottom: 4px solid rgb(255, 118, 117);
+  color: #ff7676;
+}
+.projects:hover {
+  padding-top: 20px;
+  border-bottom: 4px solid rgb(255, 118, 117);
+  color: #ff7676;
+}
+.home:hover {
+  padding-top: 20px;
+  border-bottom: 4px solid rgb(255, 118, 117);
   color: #ff7676;
 }
 .nav a {

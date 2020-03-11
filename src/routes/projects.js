@@ -74,8 +74,8 @@ class projects extends React.Component {
                             <div class="proj_proj_title">
                                 MOVIE WORLD
                                 <div>
-                                    <button class="proj_button">DEMO</button>
-                                    <button class="proj_button">CODE</button>
+                                    <a href="https://polarmushroom.github.io/movie_app/     " target="_blank" rel="noopener noreferrer" class="proj_button">DEMO</a>
+                                    <a href="https://github.com/PolarMushroom/movie_app" target="_blank" rel="noopener noreferrer" class="proj_button">CODE</a>
                                 </div>
                             </div>
                             <span class="proj_text">I developed a web application which offers Movie and TV show information using The MOVIE DB. The Movie page shows Now Playing, Upcoming Movies, and Popular movies. The TV show page offers Airing Today, Top Rated Shows, and Popular shows. Each Movie and each TV show has their own detail page, which offers program information.</span>
