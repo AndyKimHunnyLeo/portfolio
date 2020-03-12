@@ -8,7 +8,8 @@ function Navigation() {
 
             <Link to="/" target="_top" class="nav_text home">home</Link>
             <Link to="/projects" target="_top" class="nav_text projects" >projects</Link>
-            <Link to="/contact" target="_top" class="nav_text contact">contact</Link>
+            <Link to="/contact" target="_top" class="nav_text ">contact</Link>
+
         </div >
     );
 }
